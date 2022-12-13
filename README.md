@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Lucas</h1>
+<h1 align="center">Hi 👋, I'm Lucas </h1>
+<h3 align="center">Electrical Engineer <h3>
 <h3 align="center">É Engenheiro Eletricista, se fosse elétrico eu dava curto ao sair na chuva.</h3>
 
 <h3 align="left">Connect with me:</h3>
