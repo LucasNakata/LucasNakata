@@ -7,10 +7,13 @@
   
   ##
  
-<div> 
-  <a href = "mailto:lucas.nakata@alumni.usp.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+  <br>
+  <a href="mailto:lucas.nakata@alumni.usp.br" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://br.linkedin.com/in/lucas-yuichi-nakata" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/LucasNakata/LucasNakata/blob/main/cobrinha.yml.svg)
+  ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+ 
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=ELLEN2121&repo=ELLEN2121&theme=react)](https://github.com/ELLEN2121/ELLEN2121)
