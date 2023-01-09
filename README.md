@@ -3,7 +3,7 @@
 <h3 align="center">É Engenheiro Eletricista, se fosse elétrico eu dava curto ao sair na chuva.</h3>
 
 <h3 align="center">Connect with me:</h3>
-<br>
+<p align="center">
 <a href="mailto:lucas.nakata@alumni.usp.br" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://br.linkedin.com/in/lucas-yuichi-nakata" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <p align="center">
