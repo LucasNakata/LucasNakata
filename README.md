@@ -20,4 +20,4 @@
 </div>
   
   ## 
-  ![Snake animation](https://github.com/lucasnakata/lucasnakata/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/LucasNakata/LucasNakata/blob/output/github-contribution-grid-snake.svg)
