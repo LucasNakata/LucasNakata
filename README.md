@@ -24,20 +24,20 @@
             src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC6mW9IbgNST84LZ9E25KpKg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
     </a> 
-    <!-- <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/LucasNakata?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/LucasNakata?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/LucasNakata?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/LucasNakata?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
-    </a> -->
+    </a>
   <a href="mailto:lucas.nakata@alumni.usp.br" target="_blank">
     <img 
       src="https://custom-icon-badges.demolab.com/badge/-lucas.nakata@alumni.usp.br-red?style=for-the-badge&logo=mention&logoColor=white"> 
