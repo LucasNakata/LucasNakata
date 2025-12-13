@@ -40,8 +40,7 @@
     </a> -->
   <a href="mailto:lucas.nakata@alumni.usp.br" target="_blank">
     <img 
-      src="https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?logo=mail"> 
-      <!-- src="https://img.shields.io/badge/-Gmail-%23E4405F?style=for-the-badge&logo=email&logoColor=white" target="_blank"> -->
+      src="https://custom-icon-badges.demolab.com/badge/-hermione@spew.co.uk-red?style=for-the-badge&logo=mention&logoColor=white"> 
   </a>
   <a href="https://br.linkedin.com/in/lucas-yuichi-nakata" target="_blank">
     <img 
